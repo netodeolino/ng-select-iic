@@ -1,0 +1,13 @@
+<div class="navbar-form" role="search">
+  <div class="has-feedback">
+    <input [(ngModel)]="term" name="term" class="form-control" type="text" placeholder="Search" (keyup)="doSearch($event.target.value)" />
+  </div>
+  <div class="list-group list-group-magic" *ngIf="showResults">
+    <a class="list-group-item pointer" *ngFor="let result of listResult" (click)="objectClicked(result)">
+      <div class="media">
+        <img class="img-thumbnail img-circle" [src]="result.srcImage" alt="Image" />
+        <h6 class="name">{{result.name}}</h6>
+      </div>
+    </a>
+  </div>
+</div>
