@@ -6,8 +6,8 @@
 
 ### Select style search bar
  - Params:
- 	List with objects javascript
- 	Object example: { name: 'Cat 01', srcImage: 'https://i.ytimg.com/vi/uHqorYI--f8/hqdefault.jpg' }
+ 	- List with objects javascript
+ 	- Object example: { name: 'Cat 01', srcImage: 'pathimage' }
 
 ![Image 01](https://github.com/netodeolino/ng-select-iic/blob/master/src/assets/example.gif?raw=true)
 
