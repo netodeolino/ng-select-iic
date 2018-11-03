@@ -50,7 +50,8 @@
     "tslint": "~5.11.0",
     "typescript": "~2.9.2"
   },
-  "peerDependencies": {
-    
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/netodeolino/ng-select-iic.git"
   }
 }

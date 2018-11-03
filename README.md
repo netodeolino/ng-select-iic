@@ -9,9 +9,12 @@
  	- List with objects javascript
  	- Object example: { name: 'Cat 01', srcImage: 'pathimage' }
 
-![Image 01](https://github.com/netodeolino/ng-select-iic/blob/master/src/assets/example.gif?raw=true)
+### Example
+![Execution Example](https://github.com/netodeolino/ng-select-iic/blob/master/src/assets/example.gif?raw=true)
 
-### Development in progress
+### Use example
+![Use Example](https://github.com/netodeolino/ng-select-iic/blob/master/src/assets/use-example.png?raw=true)
 
+### Development in progress!
 
 #### Neto Deolino
