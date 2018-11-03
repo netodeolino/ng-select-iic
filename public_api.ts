@@ -1,0 +1,1 @@
+export * from './src/app/ng-select-iic/ng-select-iic.module';
