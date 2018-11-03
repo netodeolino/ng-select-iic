@@ -1,6 +1,6 @@
 {
   "name": "ng-select-iic",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Angular 6 Select Component",
   "scripts": {
     "ng": "ng",
